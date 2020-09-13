@@ -12,7 +12,7 @@ class Login extends React.Component {
                 background: "#fab1a0",
                 height: "100vh",
                 width: "100vw",
-                display: "flex"
+                display: "flex",
             }}>
                 <Form>
                     <Card style={styles.card}>
